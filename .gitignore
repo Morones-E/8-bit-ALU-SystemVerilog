@@ -1,0 +1,20 @@
+
+# ModelSim / Questa temporary files
+work/
+transcript
+
+# Simulation artifacts
+*.vvp
+*.vcd
+*.fst
+*.wlf
+*.log
+
+# Gowin generated files
+impl/
+*.fs
+*.rao
+*.rpt
+
+# Gowin local user settings
+*.gprj.user

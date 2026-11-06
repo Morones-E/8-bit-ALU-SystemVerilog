@@ -11,6 +11,7 @@ The design uses a 9-bit registered output to preserve the carry-out bit generate
 ### Supported Operations
 
 | Opcode  | Operation | Description          |
+|---|---|---|
 | `2'b00` | ADD       | Unsigned addition    | 
 | `2'b01` | SUB       | Unsigned subtraction |
 | `2'b10` | AND       | Bitwise AND          |
